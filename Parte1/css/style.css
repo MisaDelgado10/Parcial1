@@ -1,0 +1,27 @@
+header{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+img{
+    width: 50%;
+    border: double 5px;
+}
+#phrase{
+    text-align: center;
+    font-weight:bold;
+    font-size: 15px;
+    font-family: 'Courier New', Courier, monospace;
+}
+#timeline{
+    text-align: center;
+}
+span{
+    font-weight:bold ;
+}
+body{
+    background-color: seashell;
+}
+footer{
+    margin-top: 50px;
+}
