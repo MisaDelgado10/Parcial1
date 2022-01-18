@@ -137,7 +137,8 @@ header,.content{
 
       /* (4) Agrega codigo flex papara modificar el posicionamiento de los articulos en columnas. */   
       .article{
-        
+          display: flex;
+          flex-direction: row;
           width: 70%;
       }
     
